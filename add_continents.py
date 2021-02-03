@@ -5,7 +5,7 @@ def get_iso_codes_by_continent(filename):
     '''
     (str) -> dict
     
-    Using a file containing the ISO codes of countries and their respectice continents,
+    Using a file containing the ISO codes of countries and their respective continents,
     this function returns a dictionary with keys as the continents and associated to them
     a list of ISO codes each representing a country that belongs that to continent
     
